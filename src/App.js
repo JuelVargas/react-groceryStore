@@ -16,6 +16,11 @@ class App extends Component {
       { name: 'Pimiento', price: 700, img: '/productos/pimiento.jpg' },
       { name: 'Ajo', price: 200, img: '/productos/ajo.jpg' },
 
+      { name: 'Cebolla', price: 700, img: '/productos/cebolla.jpg' },
+      { name: 'Fideos', price: 1300, img: '/productos/fideos.jpg' },
+      { name: 'Zanahoria', price: 400, img: '/productos/zanahoria.jpg' },
+
+
 
 
     ],

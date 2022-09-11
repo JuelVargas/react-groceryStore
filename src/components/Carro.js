@@ -10,13 +10,14 @@ const styles = {
         padding: '15px',
         borderRadius: '10px',
         curson: 'pointer',
+        marginRight: '50px',
     },
 
     bubble: {
         position: 'relative',
         left: 12,
         top: 20,
-    }
+    },
 }
 
 class Carro extends Component {

@@ -11,7 +11,8 @@ const styles = {
     },
 
     container: {
-        width: '70%'
+        width: '70%',
+        marginTop: '100px'
     }
 }
 
